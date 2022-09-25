@@ -1,0 +1,30 @@
+{
+  "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+  "tokenId": "2",
+  "tokenType": "ERC721",
+  "title": "",
+  "description": "",
+  "url": "https://ipfs.io/ipfs/QmcJYkCKK7QPmYWjp4FD2e3Lv5WCGFuHNUByvGKBaytif4",
+  "attributes": [
+      {
+        "value": "3d",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Bored Cigarette",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Robot",
+        "trait_type": "Fur"
+      },
+      {
+        "value": "Sea Captain's Hat",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Aquamarine",
+        "trait_type": "Background"
+      }
+  ]
+}
